@@ -6,24 +6,24 @@
     "goods": [
       {
         "id": "id-1",
-        "name": "红米note9",
-        "headline": "红米note9 5G手机小RedmiNote9天玑800U",
+        "name": "柚家纸巾套装4包纤维纸+1包厨房纸",
+        "headline": "柚家纸巾套装4包纤维纸+1包厨房纸",
         "cover": "https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng8c04d343457d13fe410e39650ec4391b33ba81508faf39f3c9a0d7aa914fb154",
-        "price": 5000,
+        "price": 20,
         "remark": "免运费"
       },
       {
         "id": "id-2",
-        "name": "红米note9",
-        "headline": "红米note9 5G手机小RedmiNote9天玑800U",
+        "name": "素士小蓝瓶冲牙器升级版W3Pro",
+        "headline": "小蓝瓶 大容量 多模式 ",
         "cover": "/assets/goods/redmi-note9.png",
         "price": 5000,
         "remark": "免运费"
       },
       {
         "id": "id-3",
-        "name": "红米note9",
-        "headline": "红米note9 5G手机小RedmiNote9天玑800U",
+        "name": "须眉旅行便携式剃须刀T3",
+        "headline": "易携带充电快易清洗",
         "cover": "/assets/goods/redmi-note9.png",
         "price": 5000,
         "remark": "免运费"
