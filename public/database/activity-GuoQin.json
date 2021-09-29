@@ -1,0 +1,33 @@
+{
+  "headline": "国庆黄金周｜工行带您寻品奇遇",
+  "cover": "/assets/activity/cover.png",
+  "recommend": {
+    "headline": "今日必推",
+    "goods": [
+      {
+        "id": "id-1",
+        "name": "红米note9",
+        "headline": "红米note9 5G手机小RedmiNote9天玑800U",
+        "cover": "https://lanhu.oss-cn-beijing.aliyuncs.com/SketchPng8c04d343457d13fe410e39650ec4391b33ba81508faf39f3c9a0d7aa914fb154",
+        "price": 5000,
+        "remark": "免运费"
+      },
+      {
+        "id": "id-2",
+        "name": "红米note9",
+        "headline": "红米note9 5G手机小RedmiNote9天玑800U",
+        "cover": "/assets/goods/redmi-note9.png",
+        "price": 5000,
+        "remark": "免运费"
+      },
+      {
+        "id": "id-3",
+        "name": "红米note9",
+        "headline": "红米note9 5G手机小RedmiNote9天玑800U",
+        "cover": "/assets/goods/redmi-note9.png",
+        "price": 5000,
+        "remark": "免运费"
+      }
+    ]
+  }
+}
